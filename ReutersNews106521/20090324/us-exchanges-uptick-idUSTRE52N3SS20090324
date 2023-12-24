@@ -1,0 +1,10 @@
+-- Exchanges call on SEC for modified uptick rule
+-- 
+-- Tue Mar 24, 2009 2:45pm EDT
+-- http://www.reuters.com/article/2009/03/24/us-exchanges-uptick-idUSTRE52N3SS20090324
+
+ 
+
+ NEW YORK  (Reuters) - The top three U.S. exchanges want regulators to adopt a "modified uptick rule" and a "circuit breaker" to curb abusive short selling, a trading strategy that profits from declining stocks. 
+
+ The Securities and Exchange Commission, the federal market watchdog, is currently working with exchange operators and others on proposals to mitigate the dramatic, mortgage market-inspired drop in capital markets. The exchanges said in a joint letter on Tuesday that the old uptick rule -- which was removed in 2007 after decades of use -- "would likely prove difficult to implement and enforce" now that trading is far faster and securities are priced in smaller increments. A short seller sells borrowed shares they expect to fall in the hope of buying them back at a cheaper price. In "naked" short selling, which is illegal, the trader does not borrow the shares. The original uptick rule only allowed short sales when the last sale price was higher than the previous price. An updated uptick rule would go further, only allowing shorting at a price above the highest available bid, the operators of the New York Stock Exchange, the Nasdaq Stock Market and BATS Exchange said in the letter to SEC Chairwoman Mary Schapiro. "It is conceptually simple, likely to be more effective in dampening downward price pressure, and easier to program into trading and surveillance systems than the original uptick rule," the companies, NYSE Euronext NYX.N, Nasdaq OMX ( NDAQ.O ) and BATS Trading said in the letter. They also called for a so-called circuit breaker that would trigger the application of the new uptick rule "only after the price of a stock has experienced a precipitous decline by a certain percentage, perhaps 10 percent." Members of the SEC are scheduled to meet April 8 to consider short-sale price test proposals. (Reporting by  Jonathan Spicer , editing by Maureen Bavdek)

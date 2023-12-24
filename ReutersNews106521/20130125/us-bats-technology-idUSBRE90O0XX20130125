@@ -1,0 +1,9 @@
+-- BATS glitch affected far fewer trades than originally thought
+-- 
+-- Fri Jan 25, 2013 1:31pm EST
+-- http://www.reuters.com/article/2013/01/25/us-bats-technology-idUSBRE90O0XX20130125
+
+ 
+
+ NEW YORK  (Reuters) - A systems error at U.S. stock market operator BATS Global Markets that led to a number of trades not being executed at the best possible price over a four-year period, was not as wide-spread as originally thought, BATS said on Friday. 
+ The coding problem led to around 12,000 transactions being executed at prices that were not the best available, in violation of U.S. Securities and Exchange Commission rules, not the more than 440,000 transactions that BATS had originally disclosed earlier this month, a spokesman said. The actual cost to BATS customers was around $17,000, not the around $420,000 originally thought, spokesman Randy Williams added. BATS, which is the third-largest U.S. stock exchange by volume, behind NYSE Euronext NYX.N and Nasdaq OMX Group ( NDAQ.O ), also said it successfully deployed a fix for the problem on Friday. The problem had existed from the time BATS became an exchange in 2008, and was difficult to detect because the transactions in question were a small fraction of the 12.1 billion trades on BATS options and equities markets during the time frame, BATS said earlier in January. BATS discovered the problem in a routine self-audit of its data and self reported it. (Reporting By  John McCrank ; Editing by Nick Zieminski)

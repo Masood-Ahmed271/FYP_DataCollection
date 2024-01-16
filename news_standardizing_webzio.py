@@ -42,10 +42,7 @@ class JsonToCsvConverter:
                  'thread.site_section', 'thread.section_title', 'thread.url', 'thread.country', 'thread.title',
                  'thread.performance_score', 'thread.site', 'thread.participants_count', 'thread.title_full',
                  'thread.spam_score', 'thread.site_type', 'thread.published', 'thread.replies_count', 'thread.uuid',
-                 'external_links', 'persons', 'organizations'], axis='columns', inplace=True)
-
-        df['locations'] = df['locations'].replace({'[]': float('nan')})
-        df['locations'] = df['locations'].str.replace('[\[\]]', '', regex=True)
+                 'external_links', 'persons', 'organizations', 'uuid', 'crawled', 'locations'], axis='columns', inplace=True)
 
         df['persons'] = df['persons'].replace({'[]': float('nan')})
         df['persons'] = df['persons'].str.replace('[\[\]]', '', regex=True)
